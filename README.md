@@ -4,7 +4,7 @@
 
 ## Description
 
-Wider ChatGPT Chat is a Greasemonkey user script that increases the maximum width of the central window on [ChatGPT](https://chatgpt.com/). to make conversations more readable and accessible.
+Wider ChatGPT Chat is a Greasemonkey user script that increases the maximum width of the central window on [ChatGPT](https://chatgpt.com/) to make conversations more readable and accessible.
 
 ## Before
 
