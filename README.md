@@ -1,7 +1,5 @@
 # Wider ChatGPT Chat
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Wider ChatGPT Chat is a Greasemonkey user script that increases the maximum width of the central window on [ChatGPT](https://chatgpt.com/) to make conversations more readable and accessible.
 
 ## Before
@@ -23,10 +21,6 @@ Wider ChatGPT Chat is a Greasemonkey user script that increases the maximum widt
 ## Contributions
 
 If the css changes or the script stops working and you want to contribute to fixing it, you are welcome.
-
-## License
-
-This project is distributed under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
